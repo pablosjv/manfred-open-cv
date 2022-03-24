@@ -171,62 +171,6 @@
       },
       {
         "organization": {
-          "name": "BBVA Labs",
-          "image": {
-            "alt": "BBVA Labs",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/77b985eb-b393-4b8b-8f2f-e12d61d9bca7_lnw8etyn9vjlxe71dp53.png"
-          },
-          "URL": "http://www.bbva.com/"
-        },
-        "roles": [
-          {
-            "name": "Intership in innovation and technology",
-            "startDate": "2016-11-01",
-            "finishDate": "2017-05-31",
-            "challenges": [
-              {
-                "description": "I worked with the Machine Learning Team at the Innovation and Technology department in BBVA. We developed a service to automatize the hyperparameter tunning for neural networks in a microservices architecture using evolutionary algorithms."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "rancher",
-                "type": "technology"
-              },
-              {
-                "name": "Kubernetes",
-                "type": "technology"
-              },
-              {
-                "name": "neural-network",
-                "type": "technology"
-              },
-              {
-                "name": "Flask",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "Kafka",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Clarity.ai",
           "image": {
             "alt": "Clarity.ai",
@@ -322,6 +266,54 @@
               },
               {
                 "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "BBVA Labs",
+          "image": {
+            "alt": "BBVA Labs",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/77b985eb-b393-4b8b-8f2f-e12d61d9bca7_lnw8etyn9vjlxe71dp53.png"
+          },
+          "URL": "http://www.bbva.com/"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer - Innovation & Technology",
+            "startDate": "2016-11-01",
+            "finishDate": "2017-05-31",
+            "challenges": [
+              {
+                "description": "I worked with the Machine Learning Team at the Innovation and Technology department in BBVA. We developed a service to automatize the hyperparameter tunning for neural networks in a microservices architecture using evolutionary algorithms."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Flask",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Kafka",
                 "type": "technology"
               }
             ]
