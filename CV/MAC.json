@@ -111,6 +111,53 @@
       },
       {
         "organization": {
+          "name": "Clarity AI",
+          "URL": "https://clarity.ai"
+        },
+        "roles": [
+          {
+            "name": "Machine Learning Engineer II - Data Science",
+            "startDate": "2021-06-01",
+            "challenges": [
+              {
+                "description": "* Design and develop large scale Machine Learning inference pipelines.\n* Tracking, versioning and monitoring for ML models.\n* Investigate and asses new technologies and methods to create a more productive data science team.\n* Incorporate successful human-in-the-loop solutions for model training and model performance evaluation."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "S3",
+                "type": "technology"
+              },
+              {
+                "name": "PySpark",
+                "type": "technology"
+              },
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Airflow",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Pandas",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "BBVA Labs",
           "image": {
             "alt": "BBVA Labs",
@@ -216,10 +263,6 @@
       {
         "organization": {
           "name": "Clarity AI",
-          "image": {
-            "alt": "Clarity.ai",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/6fa10a59-b950-4d50-9455-70ddeb8cfa0d_dqpmq.png"
-          },
           "URL": "http://clarity.ai/"
         },
         "roles": [
