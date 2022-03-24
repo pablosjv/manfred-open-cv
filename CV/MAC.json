@@ -70,23 +70,7 @@
                 "type": "technology"
               },
               {
-                "name": "Hadoop",
-                "type": "technology"
-              },
-              {
-                "name": "Ansible",
-                "type": "technology"
-              },
-              {
-                "name": "Terraform",
-                "type": "technology"
-              },
-              {
-                "name": "LDAP",
-                "type": "technology"
-              },
-              {
-                "name": "Flask",
+                "name": "Go",
                 "type": "technology"
               },
               {
@@ -94,7 +78,7 @@
                 "type": "technology"
               },
               {
-                "name": "Go",
+                "name": "PostgreSQL",
                 "type": "technology"
               },
               {
@@ -102,7 +86,23 @@
                 "type": "technology"
               },
               {
-                "name": "PostgreSQL",
+                "name": "Terraform",
+                "type": "technology"
+              },
+              {
+                "name": "Ansible",
+                "type": "technology"
+              },
+              {
+                "name": "Flask",
+                "type": "technology"
+              },
+              {
+                "name": "Hadoop",
+                "type": "technology"
+              },
+              {
+                "name": "LDAP",
                 "type": "technology"
               }
             ]
@@ -129,19 +129,7 @@
                 "type": "technology"
               },
               {
-                "name": "S3",
-                "type": "technology"
-              },
-              {
-                "name": "PySpark",
-                "type": "technology"
-              },
-              {
                 "name": "AWS",
-                "type": "technology"
-              },
-              {
-                "name": "Airflow",
                 "type": "technology"
               },
               {
@@ -150,6 +138,18 @@
               },
               {
                 "name": "Pandas",
+                "type": "technology"
+              },
+              {
+                "name": "Airflow",
+                "type": "technology"
+              },
+              {
+                "name": "PySpark",
+                "type": "technology"
+              },
+              {
+                "name": "S3",
                 "type": "technology"
               }
             ]
@@ -181,6 +181,10 @@
                 "type": "technology"
               },
               {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
                 "name": "Docker",
                 "type": "technology"
               },
@@ -189,15 +193,11 @@
                 "type": "technology"
               },
               {
-                "name": "Flask",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
                 "name": "Kafka",
+                "type": "technology"
+              },
+              {
+                "name": "Flask",
                 "type": "technology"
               }
             ]
@@ -225,6 +225,14 @@
             ],
             "competences": [
               {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Go",
+                "type": "technology"
+              },
+              {
                 "name": "AWS",
                 "type": "technology"
               },
@@ -237,19 +245,11 @@
                 "type": "technology"
               },
               {
-                "name": "Go",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
+                "name": "API",
                 "type": "technology"
               },
               {
                 "name": "Lambda",
-                "type": "technology"
-              },
-              {
-                "name": "API",
                 "type": "technology"
               },
               {
@@ -277,19 +277,7 @@
             ],
             "competences": [
               {
-                "name": "Airflow",
-                "type": "technology"
-              },
-              {
                 "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "Kubernetes",
-                "type": "technology"
-              },
-              {
-                "name": "Docker",
                 "type": "technology"
               },
               {
@@ -297,11 +285,19 @@
                 "type": "technology"
               },
               {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
                 "name": "MongoDB",
                 "type": "technology"
               },
               {
-                "name": "PostgreSQL",
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
                 "type": "technology"
               },
               {
@@ -309,11 +305,19 @@
                 "type": "technology"
               },
               {
+                "name": "Spark",
+                "type": "technology"
+              },
+              {
+                "name": "Airflow",
+                "type": "technology"
+              },
+              {
                 "name": "PySpark",
                 "type": "technology"
               },
               {
-                "name": "Spark",
+                "name": "Amazon SQS",
                 "type": "technology"
               },
               {
@@ -322,10 +326,6 @@
               },
               {
                 "name": "Redshift",
-                "type": "technology"
-              },
-              {
-                "name": "Amazon SQS",
                 "type": "technology"
               }
             ]
