@@ -269,6 +269,7 @@
           {
             "name": "Engineer II - Data Engineer",
             "startDate": "2020-01-01",
+            "finishDate": "2020-06-01",
             "challenges": [
               {
                 "description": "* Design and build the company Data Lake, data versioning and lineage systems.\n* Develop data pipelines. Design and automate the data processing.\n* Design and implement data collection and automatic data validation systems based on Event Sourcing Architecture.\n* Implement dashboards to communicate reports about de data quality and data collection KPIs to the stakeholders."
