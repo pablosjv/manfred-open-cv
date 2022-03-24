@@ -480,59 +480,6 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Software Engineering",
-        "startDate": "2013-09-01",
-        "finishDate": "2017-07-31",
-        "institution": {
-          "name": "Universidad Politécnica de Madrid",
-          "URL": "http://www.upm.es/",
-          "image": {
-            "alt": "Software Engineering",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/fca66ef8-6d0b-4fd4-9b3f-4c9136c849e9_qaht1.gif"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "JAVA",
-            "type": "technology"
-          },
-          {
-            "name": "C",
-            "type": "technology"
-          },
-          {
-            "name": "C++",
-            "type": "technology"
-          },
-          {
-            "name": "Haskell",
-            "type": "technology"
-          },
-          {
-            "name": "ADA",
-            "type": "technology"
-          },
-          {
-            "name": "software-design",
-            "type": "technology"
-          },
-          {
-            "name": "graph-algorithm",
-            "type": "technology"
-          },
-          {
-            "name": "fuzzy-search",
-            "type": "technology"
-          },
-          {
-            "name": "genetic-algorithm",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
         "name": "MSc in Computational Analytics",
         "startDate": "2019-08-01",
         "finishDate": "2021-05-31",
@@ -564,6 +511,44 @@
           },
           {
             "name": "Scala",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Software Engineering",
+        "startDate": "2013-09-01",
+        "finishDate": "2017-07-31",
+        "institution": {
+          "name": "Universidad Politécnica de Madrid",
+          "description": "GPA 8.53/10, Class Rank 2",
+          "URL": "http://www.upm.es/",
+          "image": {
+            "alt": "Software Engineering",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/fca66ef8-6d0b-4fd4-9b3f-4c9136c849e9_qaht1.gif"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "C",
+            "type": "technology"
+          },
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "Haskell",
+            "type": "technology"
+          },
+          {
+            "name": "ADA",
             "type": "technology"
           }
         ]
