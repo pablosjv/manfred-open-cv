@@ -480,44 +480,6 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "MSc in Computational Analytics",
-        "startDate": "2019-08-01",
-        "finishDate": "2021-05-31",
-        "institution": {
-          "name": "Georgia Tech",
-          "description": "Titulación: GPA 3.91/4.0Titulación: GPA 3.91/4.0\nCourses:\n- ISYE 6501: Introduction to Analytics Modeling\n- CSE 6040: Computing for Data Analytics\n- MGT 8803: Business Fundamentals for Analytics\n- CSE 6242: Data and Visual Analytics\n- MGT 6203: Data Analytics in Business\n- ISYE 6740: Computational Data Analysis\n- CSE 6250: Big Data for Health Care\n- ISYE 6414: Regression Analysis\n- CS 7646: Machine Learning for Trading\n- ISYE 6669: Deterministic Optimization\n\nThe Master of Science in Analytics is an interdisciplinary program that combines statistics, operations research, computing, and business by melding the world-class expertise of the College of Engineering’s Stewart School of Industrial & Systems Engineering, the College of Computing’s School of Computational Science and Engineering, and the Scheller College of Business.",
-          "URL": "https://pe.gatech.edu/degrees/analytics",
-          "image": {
-            "alt": "MSc in Computational Analytics",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/2af9de9c-266b-43e6-b491-80aa1611e61b_4eimy.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Python",
-            "type": "technology"
-          },
-          {
-            "name": "R",
-            "type": "technology"
-          },
-          {
-            "name": "Pandas",
-            "type": "technology"
-          },
-          {
-            "name": "D3",
-            "type": "technology"
-          },
-          {
-            "name": "Scala",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
         "name": "Software Engineering",
         "startDate": "2013-09-01",
         "finishDate": "2017-07-31",
@@ -549,6 +511,44 @@
           },
           {
             "name": "ADA",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "MSc in Computational Analytics",
+        "startDate": "2019-08-01",
+        "finishDate": "2021-05-31",
+        "institution": {
+          "name": "Georgia Tech",
+          "description": "GPA 3.91/4.0Titulación: GPA 3.91/4.0\n\nCourses:\n- ISYE 6501: Introduction to Analytics Modeling\n- CSE 6040: Computing for Data Analytics\n- MGT 8803: Business Fundamentals for Analytics\n- CSE 6242: Data and Visual Analytics\n- MGT 6203: Data Analytics in Business\n- ISYE 6740: Computational Data Analysis\n- CSE 6250: Big Data for Health Care\n- ISYE 6414: Regression Analysis\n- CS 7646: Machine Learning for Trading\n- ISYE 6669: Deterministic Optimization\n\nThe Master of Science in Analytics is an interdisciplinary program that combines statistics, operations research, computing, and business by melding the world-class expertise of the College of Engineering’s Stewart School of Industrial & Systems Engineering, the College of Computing’s School of Computational Science and Engineering, and the Scheller College of Business.",
+          "URL": "https://pe.gatech.edu/degrees/analytics",
+          "image": {
+            "alt": "MSc in Computational Analytics",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/2af9de9c-266b-43e6-b491-80aa1611e61b_4eimy.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "R",
+            "type": "technology"
+          },
+          {
+            "name": "Pandas",
+            "type": "technology"
+          },
+          {
+            "name": "D3",
+            "type": "technology"
+          },
+          {
+            "name": "Scala",
             "type": "technology"
           }
         ]
