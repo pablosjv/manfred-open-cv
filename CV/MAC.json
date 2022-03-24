@@ -47,50 +47,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Clarity.ai",
-          "image": {
-            "alt": "Clarity.ai",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/0ca76c0f-5241-4e5a-b876-a51f48a2442b_dqpmq.png"
-          },
-          "URL": "http://clarity.ai/"
-        },
-        "roles": [
-          {
-            "name": "Data Engineer",
-            "startDate": "2017-09-01",
-            "finishDate": "2017-11-30",
-            "challenges": [
-              {
-                "description": "*   Develop algorithms and carrying out data analysis with Python and Pandas through Jupyter notebooks\n*   Clean the previous code and organize new analysis workflow\n*   Optimize and automate the previous analysis processes reducing the analysis time."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "Pandas",
-                "type": "technology"
-              },
-              {
-                "name": "Jupyter",
-                "type": "technology"
-              },
-              {
-                "name": "Scikit-learn",
-                "type": "technology"
-              },
-              {
-                "name": "cluster-analysis",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "BBVA Next Technologies",
           "image": {
             "alt": "BBVA Next Technologies",
