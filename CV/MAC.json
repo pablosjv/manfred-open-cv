@@ -111,57 +111,6 @@
       },
       {
         "organization": {
-          "name": "Clarity.ai",
-          "image": {
-            "alt": "Clarity.ai",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/6fa10a59-b950-4d50-9455-70ddeb8cfa0d_dqpmq.png"
-          },
-          "URL": "http://clarity.ai/"
-        },
-        "roles": [
-          {
-            "name": "Data Engineer",
-            "startDate": "2020-01-01",
-            "challenges": [
-              {
-                "description": "*   Data Lake, versioning and lineage architecture\n*   Develop data pipelines Python using Pandas and Dask, deployed over Airflow.\n*   Transform and model data for the different use cases and data storage systems (Mongo, PostgreSQL, S3...)"
-              }
-            ],
-            "competences": [
-              {
-                "name": "Airflow",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "Kubernetes",
-                "type": "technology"
-              },
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "AWS",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "BBVA Labs",
           "image": {
             "alt": "BBVA Labs",
@@ -258,6 +207,81 @@
               },
               {
                 "name": "Aurora",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Clarity AI",
+          "image": {
+            "alt": "Clarity.ai",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/6fa10a59-b950-4d50-9455-70ddeb8cfa0d_dqpmq.png"
+          },
+          "URL": "http://clarity.ai/"
+        },
+        "roles": [
+          {
+            "name": "Engineer II - Data Engineer",
+            "startDate": "2020-01-01",
+            "challenges": [
+              {
+                "description": "* Design and build the company Data Lake, data versioning and lineage systems.\n* Develop data pipelines. Design and automate the data processing.\n* Design and implement data collection and automatic data validation systems based on Event Sourcing Architecture.\n* Implement dashboards to communicate reports about de data quality and data collection KPIs to the stakeholders."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Airflow",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Pandas",
+                "type": "technology"
+              },
+              {
+                "name": "PySpark",
+                "type": "technology"
+              },
+              {
+                "name": "Spark",
+                "type": "technology"
+              },
+              {
+                "name": "S3",
+                "type": "technology"
+              },
+              {
+                "name": "Redshift",
+                "type": "technology"
+              },
+              {
+                "name": "Amazon SQS",
                 "type": "technology"
               }
             ]
