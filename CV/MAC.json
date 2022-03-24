@@ -1,0 +1,668 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Pablo",
+      "surnames": "San José",
+      "title": "Software/ML Engineer",
+      "description": "Software engineer with almost 5 years of professional experience. Currently finishing my studies in the Master of Science in Analytics at Georgia Tech.\n\nPassionate about Software Development, DevOps philosophy, Big Data, Serverless architectures.\n\nHappy to solve challenging problems with modern technologies.",
+      "avatar": {
+        "alt": "profile-image",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/c4b67d2b-4909-4fdb-8b19-2ad921483cc4_21d6bef0b4b69695ab74.21d6bef0b4b69695ab74825cc98e136e"
+      },
+      "location": {
+        "notes": "Madrid, Community of Madrid, ES"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/pablo-sanjose-villar/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/pablosjv"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/9674758/pablosjv"
+      },
+      {
+        "type": "other",
+        "URL": "https://pablosanjose.com/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Favorite editor",
+        "fact": "VSCode"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Clarity.ai",
+          "image": {
+            "alt": "Clarity.ai",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/0ca76c0f-5241-4e5a-b876-a51f48a2442b_dqpmq.png"
+          },
+          "URL": "http://clarity.ai/"
+        },
+        "roles": [
+          {
+            "name": "Data Engineer",
+            "startDate": "2017-09-01",
+            "finishDate": "2017-11-30",
+            "challenges": [
+              {
+                "description": "*   Develop algorithms and carrying out data analysis with Python and Pandas through Jupyter notebooks\n*   Clean the previous code and organize new analysis workflow\n*   Optimize and automate the previous analysis processes reducing the analysis time."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Pandas",
+                "type": "technology"
+              },
+              {
+                "name": "Jupyter",
+                "type": "technology"
+              },
+              {
+                "name": "Scikit-learn",
+                "type": "technology"
+              },
+              {
+                "name": "cluster-analysis",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "BBVA Next Technologies",
+          "image": {
+            "alt": "BBVA Next Technologies",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/14ce4f65-47a0-4daf-a821-4b0c20e9d7f6_ityzf.jpg"
+          },
+          "URL": "https://www.bbvanexttechnologies.com/"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer - Data Enterprise Security",
+            "startDate": "2018-01-01",
+            "finishDate": "2019-09-30",
+            "challenges": [
+              {
+                "description": "*   Manage security components of the BBVA Big Data platform, based in Hadoop, Spark, DC/OS, and deployed over OpenStack.\n*   Automate deployments and infrastructure with Jenkins, Ansible, and Terraform.\n*   Develop and deploy core services to ensure the data security requirements using Python, Docker, and AWS services (API Gateway, CloudFormation, Lambda…)\n*   Hardening of the platform components and databases: PostgreSQL, MongoDB, and ElasticSearch.\n*   Manage the security services: Hadoop Encryption, Apache Ranger, OpenLDAP, Kerberos, Vault."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Hadoop",
+                "type": "technology"
+              },
+              {
+                "name": "Ansible",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
+                "type": "technology"
+              },
+              {
+                "name": "vault",
+                "type": "technology"
+              },
+              {
+                "name": "dcos",
+                "type": "technology"
+              },
+              {
+                "name": "LDAP",
+                "type": "technology"
+              },
+              {
+                "name": "kerberos",
+                "type": "technology"
+              },
+              {
+                "name": "Flask",
+                "type": "technology"
+              },
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "amazon-dynamodb",
+                "type": "technology"
+              },
+              {
+                "name": "Go",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "BBVA Labs",
+          "image": {
+            "alt": "BBVA Labs",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/77b985eb-b393-4b8b-8f2f-e12d61d9bca7_lnw8etyn9vjlxe71dp53.png"
+          },
+          "URL": "http://www.bbva.com/"
+        },
+        "roles": [
+          {
+            "name": "Intership in innovation and technology",
+            "startDate": "2016-11-01",
+            "finishDate": "2017-05-31",
+            "challenges": [
+              {
+                "description": "I worked with the Machine Learning Team at the Innovation and Technology department in BBVA. We developed a service to automatize the hyperparameter tunning for neural networks in a microservices architecture using evolutionary algorithms."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "rancher",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "neural-network",
+                "type": "technology"
+              },
+              {
+                "name": "Flask",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Kafka",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Clarity.ai",
+          "image": {
+            "alt": "Clarity.ai",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/6fa10a59-b950-4d50-9455-70ddeb8cfa0d_dqpmq.png"
+          },
+          "URL": "http://clarity.ai/"
+        },
+        "roles": [
+          {
+            "name": "Data Engineer",
+            "startDate": "2020-01-01",
+            "challenges": [
+              {
+                "description": "*   Data Lake, versioning and lineage architecture\n*   Develop data pipelines Python using Pandas and Dask, deployed over Airflow.\n*   Transform and model data for the different use cases and data storage systems (Mongo, PostgreSQL, S3...)"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Airflow",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "BBVA Next Technologies",
+          "image": {
+            "alt": "BBVA Next Technologies",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/7ad0a3f0-f645-4dce-8d1d-be7f99f928c6_ityzf.jpg"
+          },
+          "URL": "https://www.bbvanexttechnologies.com/"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer - Security Insights",
+            "startDate": "2019-09-01",
+            "finishDate": "2020-01-31",
+            "challenges": [
+              {
+                "description": "*   Developing a Hybrid Cloud solution to monitor security alarms from all the BBVA platform, and apply automatic remediation responses.\n*   Develop data pipelines and ETL processes with Golang, Python.\n*   Deploy over Nomad using Docker and over other Serverless technologies in AWS: Kinesis, Lambda, API Gateway, Glue, Aurora...\n*   Automate deployments with Jenkins, Terraform and CloudFormation."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "amazon-kinesis",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "amazon-cloudformation",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
+                "type": "technology"
+              },
+              {
+                "name": "Go",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "clarityai-eng/jsonschema2ddl",
+          "description": "Generate tables dynamically from a JSON Schema and insert data",
+          "URL": "https://github.com/clarityai-eng/jsonschema2ddl"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-01-01",
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "amazon-redshift",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "pablosjv/aco-spark",
+          "description": "A distributed implementation of the Ant Colony Optimization(ACO) algorithm using Spark. The project aims to optimize the resources allocation in a railway net.",
+          "URL": "https://github.com/pablosjv/aco-spark"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2017-11-01",
+            "finishDate": "2017-11-30",
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Scala",
+                "type": "technology"
+              },
+              {
+                "name": "apache-spark",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Top 20% at Stack Overflow answers",
+          "description": "This user is part of the top 20% Stack Overflow answerers in this technology"
+        },
+        "type": "achievement",
+        "publishingDate": "2022-03-04",
+        "relatedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "AWS Certified Developer - Associate",
+        "startDate": "2019-01-01",
+        "finishDate": "2021-01-31",
+        "institution": {
+          "name": "AWS Certified Developer - Associate",
+          "URL": "https://www.credly.com/badges/deaceaa1-7a27-45f4-9ecc-c8d8094e9a74/public_url",
+          "image": {
+            "alt": "AWS Certified Developer - Associate",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/4caf29a1-11be-437c-a1fd-d06171902400_7f3nz.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "amazon-dynamodb",
+            "type": "technology"
+          },
+          {
+            "name": "S3",
+            "type": "technology"
+          },
+          {
+            "name": "Amazon SQS",
+            "type": "technology"
+          },
+          {
+            "name": "amazon-cloudformation",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Machine Learning",
+        "startDate": "2017-02-01",
+        "finishDate": "2017-02-28",
+        "institution": {
+          "name": "Machine Learning",
+          "URL": "https://www.coursera.org/account/accomplishments/certificate/3JJFHNBVFKWF",
+          "image": {
+            "alt": "Machine Learning",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/a2929349-cd5b-483c-9459-ef319f158cd4_yrfun.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "octave",
+            "type": "technology"
+          },
+          {
+            "name": "neural-network",
+            "type": "technology"
+          },
+          {
+            "name": "linear-regression",
+            "type": "technology"
+          },
+          {
+            "name": "logistic-regression",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "MSc in Computational Analytics",
+        "startDate": "2019-08-01",
+        "finishDate": "2021-05-31",
+        "institution": {
+          "name": "Georgia Tech",
+          "URL": "https://pe.gatech.edu/degrees/analytics",
+          "image": {
+            "alt": "MSc in Computational Analytics",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/2af9de9c-266b-43e6-b491-80aa1611e61b_4eimy.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "R",
+            "type": "technology"
+          },
+          {
+            "name": "Pandas",
+            "type": "technology"
+          },
+          {
+            "name": "D3",
+            "type": "technology"
+          },
+          {
+            "name": "Scala",
+            "type": "technology"
+          },
+          {
+            "name": "apache-spark",
+            "type": "technology"
+          },
+          {
+            "name": "regression",
+            "type": "technology"
+          },
+          {
+            "name": "linear-regression",
+            "type": "technology"
+          },
+          {
+            "name": "logistic-regression",
+            "type": "technology"
+          },
+          {
+            "name": "trading",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Software Engineering",
+        "startDate": "2013-09-01",
+        "finishDate": "2017-07-31",
+        "institution": {
+          "name": "Universidad Politécnica de Madrid",
+          "URL": "http://www.upm.es/",
+          "image": {
+            "alt": "Software Engineering",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/fca66ef8-6d0b-4fd4-9b3f-4c9136c849e9_qaht1.gif"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "C",
+            "type": "technology"
+          },
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "Haskell",
+            "type": "technology"
+          },
+          {
+            "name": "ADA",
+            "type": "technology"
+          },
+          {
+            "name": "software-design",
+            "type": "technology"
+          },
+          {
+            "name": "graph-algorithm",
+            "type": "technology"
+          },
+          {
+            "name": "fuzzy-search",
+            "type": "technology"
+          },
+          {
+            "name": "genetic-algorithm",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/pablo-sanjose-villar/"
+        },
+        {
+          "type": "other",
+          "URL": "https://stackoverflow.com/users/9674758/pablosjv"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Go",
+          "type": "technology"
+        },
+        {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
+          "name": "Kubernetes",
+          "type": "technology"
+        },
+        {
+          "name": "TensorFlow",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "Scala",
+          "type": "technology"
+        },
+        {
+          "name": "PostgreSQL",
+          "type": "technology"
+        },
+        {
+          "name": "Snowflake",
+          "type": "technology"
+        },
+        {
+          "name": "Airflow",
+          "type": "technology"
+        },
+        {
+          "name": "Databricks",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Tomcat",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
