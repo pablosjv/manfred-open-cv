@@ -61,7 +61,7 @@
             "finishDate": "2019-09-30",
             "challenges": [
               {
-                "description": "*   Manage security components of the BBVA Big Data platform, based in Hadoop, Spark, DC/OS, and deployed over OpenStack.\n*   Automate deployments and infrastructure with Jenkins, Ansible, and Terraform.\n*   Develop and deploy core services to ensure the data security requirements using Python, Docker, and AWS services (API Gateway, CloudFormation, Lambda…)\n*   Hardening of the platform components and databases: PostgreSQL, MongoDB, and ElasticSearch.\n*   Manage the security services: Hadoop Encryption, Apache Ranger, OpenLDAP, Kerberos, Vault."
+                "description": "* Manage security components of the BBVA Big Data platform, based in Hadoop, Spark, DC/OS, and deployed over OpenStack. \n* Develop, deploy and maintain core services to ensure the data security requirements.\n* Hardening of the platform components and databases to comply with the security requirements. \n* Manage the security services: Hadoop Encryption, Hadoop KMS, Apache Ranger, OpenLDAP, Kerberos, Vault."
               }
             ],
             "competences": [
@@ -82,19 +82,7 @@
                 "type": "technology"
               },
               {
-                "name": "vault",
-                "type": "technology"
-              },
-              {
-                "name": "dcos",
-                "type": "technology"
-              },
-              {
                 "name": "LDAP",
-                "type": "technology"
-              },
-              {
-                "name": "kerberos",
                 "type": "technology"
               },
               {
@@ -103,10 +91,6 @@
               },
               {
                 "name": "AWS",
-                "type": "technology"
-              },
-              {
-                "name": "amazon-dynamodb",
                 "type": "technology"
               },
               {
