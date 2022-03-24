@@ -162,58 +162,6 @@
       },
       {
         "organization": {
-          "name": "BBVA Next Technologies",
-          "image": {
-            "alt": "BBVA Next Technologies",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/7ad0a3f0-f645-4dce-8d1d-be7f99f928c6_ityzf.jpg"
-          },
-          "URL": "https://www.bbvanexttechnologies.com/"
-        },
-        "roles": [
-          {
-            "name": "Software Engineer - Security Insights",
-            "startDate": "2019-09-01",
-            "finishDate": "2020-01-31",
-            "challenges": [
-              {
-                "description": "*   Developing a Hybrid Cloud solution to monitor security alarms from all the BBVA platform, and apply automatic remediation responses.\n*   Develop data pipelines and ETL processes with Golang, Python.\n*   Deploy over Nomad using Docker and over other Serverless technologies in AWS: Kinesis, Lambda, API Gateway, Glue, Aurora...\n*   Automate deployments with Jenkins, Terraform and CloudFormation."
-              }
-            ],
-            "competences": [
-              {
-                "name": "AWS",
-                "type": "technology"
-              },
-              {
-                "name": "amazon-kinesis",
-                "type": "technology"
-              },
-              {
-                "name": "MySQL",
-                "type": "technology"
-              },
-              {
-                "name": "amazon-cloudformation",
-                "type": "technology"
-              },
-              {
-                "name": "Terraform",
-                "type": "technology"
-              },
-              {
-                "name": "Go",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "BBVA Labs",
           "image": {
             "alt": "BBVA Labs",
@@ -254,6 +202,62 @@
               },
               {
                 "name": "Kafka",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "BBVA Next Technologies",
+          "image": {
+            "alt": "BBVA Next Technologies",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/7ad0a3f0-f645-4dce-8d1d-be7f99f928c6_ityzf.jpg"
+          },
+          "URL": "https://www.bbvanexttechnologies.com/"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer - Security Insights",
+            "startDate": "2019-09-01",
+            "finishDate": "2020-01-31",
+            "challenges": [
+              {
+                "description": "*   Developing a Hybrid Cloud solution to monitor security alarms from all the BBVA platform, and apply automatic remediation responses.\n*   Develop data pipelines and ETL processes with Golang, Python.\n*   Deploy over Nomad using Docker and over other Serverless technologies in AWS: Kinesis, Lambda, API Gateway, Glue, Aurora...\n*   Automate deployments with Jenkins, Terraform and CloudFormation."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
+                "type": "technology"
+              },
+              {
+                "name": "Go",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Lambda",
+                "type": "technology"
+              },
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "Aurora",
                 "type": "technology"
               }
             ]
