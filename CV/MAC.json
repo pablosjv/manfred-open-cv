@@ -106,114 +106,7 @@
                 "type": "technology"
               }
             ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Clarity AI",
-          "URL": "https://clarity.ai"
-        },
-        "roles": [
-          {
-            "name": "Machine Learning Engineer II - Data Science",
-            "startDate": "2021-06-01",
-            "challenges": [
-              {
-                "description": "* Design and develop large scale Machine Learning inference pipelines.\n* Tracking, versioning and monitoring for ML models.\n* Investigate and asses new technologies and methods to create a more productive data science team.\n* Incorporate successful human-in-the-loop solutions for model training and model performance evaluation."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "AWS",
-                "type": "technology"
-              },
-              {
-                "name": "Kubernetes",
-                "type": "technology"
-              },
-              {
-                "name": "Pandas",
-                "type": "technology"
-              },
-              {
-                "name": "Airflow",
-                "type": "technology"
-              },
-              {
-                "name": "PySpark",
-                "type": "technology"
-              },
-              {
-                "name": "S3",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "BBVA Labs",
-          "image": {
-            "alt": "BBVA Labs",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/77b985eb-b393-4b8b-8f2f-e12d61d9bca7_lnw8etyn9vjlxe71dp53.png"
           },
-          "URL": "http://www.bbva.com/"
-        },
-        "roles": [
-          {
-            "name": "Software Engineer - Innovation & Technology",
-            "startDate": "2016-11-01",
-            "finishDate": "2017-05-31",
-            "challenges": [
-              {
-                "description": "I worked with the Machine Learning Team at the Innovation and Technology department in BBVA. We developed a service to automatize the hyperparameter tunning for neural networks in a microservices architecture using evolutionary algorithms."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "Kubernetes",
-                "type": "technology"
-              },
-              {
-                "name": "Kafka",
-                "type": "technology"
-              },
-              {
-                "name": "Flask",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "BBVA Next Technologies",
-          "image": {
-            "alt": "BBVA Next Technologies",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/7ad0a3f0-f645-4dce-8d1d-be7f99f928c6_ityzf.jpg"
-          },
-          "URL": "https://www.bbvanexttechnologies.com/"
-        },
-        "roles": [
           {
             "name": "Software Engineer - Security Insights",
             "startDate": "2019-09-01",
@@ -263,9 +156,48 @@
       {
         "organization": {
           "name": "Clarity AI",
-          "URL": "http://clarity.ai/"
+          "URL": "https://clarity.ai"
         },
         "roles": [
+          {
+            "name": "Senior Machine Learning Engineer - Data Science",
+            "startDate": "2021-06-01",
+            "challenges": [
+              {
+                "description": "* Design and develop large scale Machine Learning inference pipelines.\n* Tracking, versioning and monitoring for ML models.\n* Investigate and asses new technologies and methods to create a more productive data science team.\n* Incorporate successful human-in-the-loop solutions for model training and model performance evaluation."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Pandas",
+                "type": "technology"
+              },
+              {
+                "name": "Airflow",
+                "type": "technology"
+              },
+              {
+                "name": "PySpark",
+                "type": "technology"
+              },
+              {
+                "name": "S3",
+                "type": "technology"
+              }
+            ]
+          },
           {
             "name": "Engineer II - Data Engineer",
             "startDate": "2020-01-01",
@@ -326,6 +258,54 @@
               },
               {
                 "name": "Redshift",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "BBVA Labs",
+          "image": {
+            "alt": "BBVA Labs",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/77b985eb-b393-4b8b-8f2f-e12d61d9bca7_lnw8etyn9vjlxe71dp53.png"
+          },
+          "URL": "http://www.bbva.com/"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer - Innovation & Technology",
+            "startDate": "2016-11-01",
+            "finishDate": "2017-05-31",
+            "challenges": [
+              {
+                "description": "I worked with the Machine Learning Team at the Innovation and Technology department in BBVA. We developed a service to automatize the hyperparameter tunning for neural networks in a microservices architecture using evolutionary algorithms."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Kafka",
+                "type": "technology"
+              },
+              {
+                "name": "Flask",
                 "type": "technology"
               }
             ]
@@ -440,6 +420,10 @@
           },
           {
             "name": "Amazon SQS",
+            "type": "technology"
+          },
+          {
+            "name": "AWS Lambda",
             "type": "technology"
           },
           {
@@ -612,6 +596,10 @@
         },
         {
           "name": "Airflow",
+          "type": "technology"
+        },
+        {
+          "name": "MLFlow",
           "type": "technology"
         },
         {
